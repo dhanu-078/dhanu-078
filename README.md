@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!  
 
 🌐 **Check out my personal portfolio here:**  
-👉 [My Portfolio](https://personal-portfolio-pi-brown-55.vercel.app/)
+👉 [My Portfolio](https://personal-portfolio-gcn8.vercel.app/)
 
 ---
 
@@ -25,7 +25,7 @@ Welcome to my GitHub profile!
 
 ## 📫 Connect with Me
 - 💼 [GitHub](https://github.com/dhanu-078)  
-- 🌍 [Portfolio](https://personal-portfolio-pi-brown-55.vercel.app/)  
+- 🌍 [Portfolio](https://personal-portfolio-gcn8.vercel.app/)  
 
 ---
 ⭐️ From [dhanu-078](https://github.com/dhanu-078)
