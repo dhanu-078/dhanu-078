@@ -1,4 +1,4 @@
-# Hi, I'm Dhananjay 👋
+# Hi, I'm Dhananjaya k 👋
 
 Welcome to my GitHub profile!  
 
